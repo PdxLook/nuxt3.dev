@@ -1,4 +1,7 @@
 {
+  "name": "my-nuxt",
+  "version": "0.0.1",
+  "description": "A wonderful package for something awesome",
   "private": true,
   "type": "module",
   "scripts": {
